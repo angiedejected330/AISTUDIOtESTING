@@ -1,0 +1,5 @@
+{
+  "name": "Vertex Basketball Dashboard",
+  "description": "A pixel-perfect recreation of the Vertex basketball product dashboard with GSAP animations and a 3D-inspired hero section.",
+  "requestFramePermissions": []
+}
